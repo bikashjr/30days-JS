@@ -42,8 +42,7 @@
 // const arr2 = [4,5,6]
 // const arr3 = arr1.concat(arr2)
 // console.log(arr3);
-
-
+ 
 // const fruits = ['apple', 'banana', 'mango']
 // const index = fruits.indexOf('apple')
 // index === -1 ? console.log('It exits') : console.log('Not exists');
@@ -59,22 +58,17 @@
 // console.log(names.slice(0, 2));  // tom,champ is included but ram is not included 
 // slice methods takes the first index but doesnt takes the last index
 
-
-
 // const nums = [1, 2, 3, 4, 5]
 // console.log(nums.slice(1, 4));
-
 
 // splice method
 // const name = ['tom', 'champ', 'ram', 'shyam']
 // name.splice(1, 2, 'HI')  // inplace of index of 1,2 (Hi) overtakes it 
 // console.log(name);
 
-
 // const pushArr = [1, 2, 3, 4, 5]
 // pushArr.push(6)
 // console.log(pushArr);
-
 
 // const fruits = ['apple', 'orange', 'mango']
 // // fruits.push('guava')
@@ -122,14 +116,11 @@
 // console.log("Mixed Data Types Array:", mixedDataTypes);
 // console.log("Length of the Array:", arrayLength);
 
-
 // const itCompanies = ["facebook", "Google", "Microsoft", 'Apple', 'IBM', 'Oracle', 'Amazon']
 // console.log('There are :',itCompanies.length, 'ITcompany' );
 // console.log(itCompanies[0]);
 // console.log(itCompanies[3]);
 // console.log(itCompanies[6]);
-
-
 
 // const itCompanies = ["facebook", "Google", "Microsoft", 'Apple', 'IBM', 'Oracle', 'Amazon']
 // console.log(itCompanies.includes('facebook'));
@@ -162,10 +153,9 @@
 // console.log(itCompanies);
 
 // const itCompanies = ["facebook", "Google", "Microsoft", 'Apple', 'IBM', 'Oracle', 'Amazon']
-// console.log(itCompanies.slice(0,3,4,5));
 
-const itCompanies = ["facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"];
+// const itCompanies = ["facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"];
 
-itCompanies.splice(0, itCompanies.length);
+// itCompanies.splice(0, itCompanies.length);
 
-console.log(itCompanies);
+// console.log(itCompanies);

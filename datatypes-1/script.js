@@ -75,7 +75,6 @@
 // const challenge = '30 Days Of JavaScript'
 // console.log(challenge.split());
 
-
 // const challanges1 = 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon'
 // const challanges2 = challanges1;
 // console.log(challanges2.split(" "));  
