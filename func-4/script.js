@@ -26,8 +26,24 @@
 // }
 // console.log(add());
 
+// function square (number) {
+//     return number;
+// }
+// console.log(square(10));
 
-function square (number) {
+
+
+// function add () {
+//     const a = 10 ;
+//     const b = 20;
+//     const c = a + b
+//     return c
+    
+// }
+// console.log(add());
+
+
+function helloWorld (number) {
     return number;
 }
-console.log(square(10));
+console.log(helloWorld(0));

@@ -44,7 +44,6 @@
 //         console.log('not equal to 10');
 // }
 
-
 // let num = prompt('Enter number');
 // switch (true) {
 //   case num > 0:
@@ -69,7 +68,7 @@
 
 
 // let num = 35;
-// num >=15 ?
+// num > = 15 ?
 // console.log(`Num is greater than ${num}`) : 
 // console.log(`Num is less than ${num}`)
 
