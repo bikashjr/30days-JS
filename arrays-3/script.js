@@ -1,6 +1,5 @@
 // Arrays 
 
-
 // Array constructor
 // const arr = Array() 
 // console.log(arr);   // creates an empty array 
@@ -18,36 +17,30 @@
 // ]
 // console.log(arr);
 
-
 // const js = 'Javascript'
 // const py = js.split('  ')
 // console.log(py);
-
 
 // chnaging the index name 
 // const listFruits = ['apple','banana','mango']
 // console.log(listFruits[0]='mango');
 
-
 // const eightValues = Array(8).fill('y')
 // console.log(eightValues);
 
-
 // const twoValues = Array(2).fill('B')
 // console.log(twoValues);
-
 
 // To concatenate two arrays.
 // const arr1 = [1,2,3]
 // const arr2 = [4,5,6]
 // const arr3 = arr1.concat(arr2)
 // console.log(arr3);
- 
+
 // const fruits = ['apple', 'banana', 'mango']
 // const index = fruits.indexOf('apple')
 // index === -1 ? console.log('It exits') : console.log('Not exists');
 // console.log(index);
-
 
 // const fruits = ['apple', 'banana', 'mango']
 // const fruitsTostring = fruits.toString()
@@ -133,7 +126,7 @@
 
 // itCompanies.includes("Google") ? console.log('Company found') : console.log('Company not found')
 
-
+3
 // const itCompanies = ["facebook", "Google", "Microsoft", 'Apple', 'IBM', 'Oracle', 'Amazon']
 // itCompanies.reverse()
 // console.log(itCompanies.splice(0,4));
